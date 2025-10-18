@@ -1,7 +1,7 @@
 {
-    "name": "pxt-rekabit",
+    "name": "pxt-MakerDrive",
     "version": "1.2.1",
-    "description": "Modified MakeCode Package for Cytron REKA:BIT (removed neopixel)",
+    "description": "MakerDrive MakeCode Package for Cytron MakerDrive",
     "license": "MIT",
     "dependencies": {
         "core": "*",
